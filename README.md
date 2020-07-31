@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-Saya Aufa Billah, Mahasiswa Teknik Informatika di STT-NF. Saya berpengalaman dalam fullstack developer. Saya memiliki skill HTML, CSS, JavaScript, Bootstrap, VueJs, ReactJs, PHP, CodeIgniter, Laravel. Saya juga memiliki skill Linux Desktop dan Linux Server.
+I am a web developer, passionate about web development, Linux, and Open Source.
 
-Saya tertarik dan fokus di bidang Web Developer / Frontend Developer.
-
-[Medium](https://medium.com/@aufaroot18) - [LinkedIn](https://www.linkedin.com/in/aufabillah/) - [Github](https://github.com/aufaroot18) - [Portfolio](http://aufaroot18.github.io/)
+Experienced Fullstack Developer and Linux. Skilled in HTML, CSS, JavaScript, Bootstrap, VueJs, ReactJs, PHP, CodeIgniter, Laravel, Wordpress, Nodejs.
 
 ---
 
-- I am currently writing in Medium
-- I am currently learning JavaScript - Frontend
-- Ask me about Web Development and Linux
+- 🔭 I’m currently working on NGO (Non-Governmental Organization)
+- 🌱 I’m currently learning Frontend Stack
+- 👯 I’m looking to collaborate on Writing about Web Development
+- 💬 Ask me about Web Development, Linux, ~~Hacking~~, Technology, Writing
+- 📫 How to reach me: [Telegram](https://t.me/aufabillah)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Fan of Manchester United, Linuxer
 
 ![Aufa's Github](https://github-readme-stats.vercel.app/api?username=aufaroot18&show_icons=true&hide_border=true)
 
